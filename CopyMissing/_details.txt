@@ -1,0 +1,3 @@
+.dat
+C:\Users\ana-maria.perea\Desktop\testingStuff\copyTest
+V:\RO01\DataLake\DCS01\NV4REFB16D22D7C1\SE-JGJ105\2019

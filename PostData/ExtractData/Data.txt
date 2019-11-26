@@ -1,0 +1,16 @@
+Folder name,Frame Based TP-Rate,Track Based TP-Rate,FP Track/h,Excel
+CNLC, 87.5%,94.2%,1943,Classification
+CNLC, 77.7%,93.5%,2296,Cluster
+CNLC, 78.2%,85.0%,363,Tracker Pedestrian
+CNLC, 75.9%,86.4%,368,Warning Decision
+LCCR, 74.3%,89.4%,1147,Classification
+LCCR, 69.1%,79.8%,151,Tracker Pedestrian
+LCCR, 67.1%,80.0%,151,Warning Decision
+RNLC, 84.2%,93.5%,1436,Classification
+RNLC, 79.3%,92.8%,871,Cluster
+RNLC, 80.2%,89.0%,70,Tracker Pedestrian
+RNLC, 76.7%,89.0%,76,Warning Decision
+_AllFileList, 80.0%,91.6%,1381,Classification
+_AllFileList, 73.2%,91.1%,1271,Cluster
+_AllFileList, 73.8%,82.8%,150,Tracker Pedestrian
+_AllFileList, 71.4%,83.3%,153,Warning Decision

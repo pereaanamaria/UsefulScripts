@@ -1,0 +1,3 @@
+_FileInfo.txt
+C:\Users\ana-maria.perea\Desktop\testingStuff\Lists\FileInfo_VA
+C:\Users\ana-maria.perea\Desktop\testingStuff\Lists\FileInfos
